@@ -1,3 +1,4 @@
+![Screenshot of model](womp.png)  
 # quickstart
 create a virtual environment  
 `python3 -m venv venv`  
